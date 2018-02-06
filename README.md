@@ -3,4 +3,5 @@ This project was created as part of class project for Advanced Business Applicat
 The project utilizes Twitter API to perform a live or historical tweets for any word or words.
 The project was done entirely on Python.
 
-For the program to work you would need to add the following access keys: consumer_key, consumer_secret, access_token, access_token_secret
+For the program to work you would need to add the following access keys: consumer_key, consumer_secret, access_token, access_token_secret.
+You can get the keys once you create a developer account on twitter: https://developer.twitter.com/
