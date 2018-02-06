@@ -6,11 +6,11 @@ import os  # Used to show where the new files were stored.
 from StreamCaptureAsList import StreamParser
 
 # Your Twitter app authentication for Tweepy.
-consumer_key = "tR1mg68SP6qSk4lpLc5kgJipI"
-consumer_secret = "CWNK2PLZkqafYoMT6AIdR0vYDMazpGFVCxMppANywTPI4YVKfq"
+consumer_key = "..."
+consumer_secret = "..."
 
-access_token = "3063995561-OG8YNTGsEoouSdSinxycWaK4W1PlbGIN6oPk1mn"
-access_token_secret = "96qKNDzkITjwvquIuxnY5l11Lm5g5eNEfSzbInfoZo7H3"
+access_token = "..."
+access_token_secret = "..."
 
 if consumer_key == '' or consumer_secret == '' or access_token == '' or access_token_secret == '':
     print("Error: Please set your Twitter app authentiction for Tweepy in the source code!")
